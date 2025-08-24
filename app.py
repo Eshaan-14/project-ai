@@ -4,7 +4,7 @@ import google.generativeai as genai
 st.title("Eshaan's Second Streamlit App")
 st.write("Here's Eshaan's sss second attempt at using data to create a table:")
 
-apikey="AIzaSyAj7N2akcgXUzGliR8h-2l21OQ3zAbaxbI"
+apikey="AIzaSyCgbYGx10pn13jp_aOcIxrGzGWl8VHQ_oY"
 
 # setting the api key
 genai.configure(api_key=apikey)
